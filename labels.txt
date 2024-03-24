@@ -1,0 +1,3 @@
+0 Hüzün
+1 Korku
+2 Mutlu
